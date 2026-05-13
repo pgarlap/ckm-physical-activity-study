@@ -1,0 +1,16 @@
+Metric,Value,Unit,Notes
+Total_Enrolled,50,Participants,Target 100
+Mean_Age,54.2,Years,SD = 12.4
+Pct_Female,58.0,Percent,
+Pct_Male,42.0,Percent,
+Pct_Hypertension,72.0,Percent,Most common condition
+Pct_Diabetes,48.0,Percent,
+Pct_CKD,31.0,Percent,
+Pct_MetabolicSyndrome,64.0,Percent,
+Pct_Overweight,86.0,Percent,
+Mean_Daily_Steps,4823,Steps/day,Below 10000 recommended
+Mean_Active_Minutes,38.4,Minutes/day,Below 150 min/week guideline
+Mean_Sedentary_Hours,9.2,Hours/day,High sedentary behavior
+Pct_Meeting_Guidelines,18.0,Percent,Only 18% meet CDC guidelines
+Baseline_Survey_Complete,50,Participants,100% completion
+Followup_Survey_Complete,0,Participants,Data collection in progress
