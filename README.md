@@ -29,10 +29,10 @@ evidence-based exercise program.
 
 | Detail | Information |
 |---|---|
-| Study Type | Observational — Online + Wearable Device |
+| Study Type | Observational - Online + Wearable Device |
 | Target Enrollment | 100 participants |
 | Current Enrollment | 50 participants (active) |
-| Age Range | 18 — 100 years |
+| Age Range | 18 - 100 years |
 | Duration | 4 weeks per participant |
 | IRB Status | Approved |
 | Study ID | 21855 |
